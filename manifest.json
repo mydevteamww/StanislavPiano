@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Stanislav Piano",
+  "description": "Stanislav Piano Pro",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Stanislav Piano",
+  "name": "Stanislav Piano Pro",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Stanislav Piano",
+  "short_name": "Stanislav Piano Pro",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Stanislav Piano",
+      "name": "Stanislav Piano Pro",
       "url": "",
       "description": ""
     }
